@@ -1,4 +1,8 @@
-
+<!-- ============================================================
+  README de perfil — Lipe0921
+  Como usar: crie um repositório PÚBLICO chamado exatamente "Lipe0921"
+  (mesmo nome do seu usuário) e coloque este arquivo na raiz.
+============================================================ -->
 
 <!-- ░░░░░░░░░░░░ HEADER ANIMADO ░░░░░░░░░░░░ -->
 <div align="center">
@@ -27,6 +31,7 @@
 [**🚀 Projetos**](#-projetos-em-destaque) •
 [**📊 Stats**](#-estatísticas) •
 [**🐍 Snake**](#-minha-contribuição-virou-um-jogo) •
+[**🎮 Jogos**](#-jogue-comigo) •
 [**🏆 Troféus**](#-troféus) •
 [**📫 Contato**](#-bora-conversar)
 
@@ -244,6 +249,42 @@ projeto-funilaria/
 
 ---
 
+## 🎮 Jogue comigo
+
+> Aqui o README é um fliperama: clique numa casa ou opção, o GitHub abre uma issue já preenchida e é só apertar **Submit new issue**. Em cerca de 30 segundos o bot joga e o placar muda sozinho. 🤖
+
+<!-- JOGOS:START -->
+### ❌⭕ Jogo da velha (você é o ❌)
+
+<div align="center">
+
+| | | |
+|:-:|:-:|:-:|
+| [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C1&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C2&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C3&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) |
+| [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C4&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C5&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C6&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) |
+| [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C7&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C8&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C9&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) |
+
+👥 Visitantes **0** · 🤖 Bot **0** · 🤝 Empates **0**
+
+<sub>Ninguém jogou ainda. Seja a primeira pessoa! 🚀</sub>
+
+</div>
+
+### ✊ Pedra, papel e tesoura
+
+<div align="center">
+
+[🪨 Pedra](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Cpedra&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) · [📄 Papel](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Cpapel&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) · [✂️ Tesoura](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Ctesoura&body=Basta%20clicar%20em%20Submit%20new%20issue.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.)
+
+👥 Visitantes **0** · 🤖 Bot **0** · 🤝 Empates **0**
+
+<sub>Ninguém jogou ainda. Seja a primeira pessoa! 🚀</sub>
+
+</div>
+<!-- JOGOS:END -->
+
+---
+
 ## 🏆 Troféus
 
 <div align="center">
@@ -264,7 +305,6 @@ projeto-funilaria/
 | 🧪 Praticar SQL todo dia | ![](https://geps.dev/progress/30?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
 | 🌱 Contribuir em open source | ![](https://geps.dev/progress/30?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
 
-<sub>Atualize os números conforme evoluir: é só mudar o valor depois de /progress/</sub>
 
 </div>
 
