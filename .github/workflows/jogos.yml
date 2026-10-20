@@ -1,0 +1,50 @@
+name: Jogos do perfil
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+# uma jogada de cada vez, para o placar não se atropelar
+concurrency:
+  group: jogos
+  cancel-in-progress: false
+
+jobs:
+  jogar:
+    if: startsWith(github.event.issue.title, 'velha|') || startsWith(github.event.issue.title, 'ppt|')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      COMMENT_FILE: ${{ runner.temp }}/comentario.md
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Processar jogada
+        run: python .github/scripts/jogos.py
+
+      - name: Salvar placar
+        env:
+          USUARIO: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "🎮 jogada de ${USUARIO}"
+          git pull --rebase
+          git push
+
+      - name: Responder e fechar a issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUMERO" --body-file "$COMMENT_FILE"
+          gh issue close "$NUMERO" --reason completed
