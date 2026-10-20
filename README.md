@@ -168,6 +168,8 @@ Projeto em equipe de Engenharia de Software (UNICID) sobre **reaproveitamento de
 
 Projeto integrador em equipe (Grupo 04) de **Modelagem de Dados**: do problema real ao **DER** de um sistema ERP para uma funilaria automotiva, com requisitos, regras de negócio, fluxogramas e dicionário de dados. Hoje a empresa controla tudo no papel; o modelo integra clientes, veículos, ordens de serviço, orçamentos, estoque, fornecedores e pagamentos.
 
+<div align="center">
+
 [![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/projeto-funilaria)
 [![Dicionário de dados](https://img.shields.io/badge/📘_Dicionário_de_dados-7c3aed?style=for-the-badge)](https://github.com/Lipe0921/projeto-funilaria/blob/main/documentos/dicionario_de_dados.pdf)
 
