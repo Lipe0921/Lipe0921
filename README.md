@@ -1,14 +1,9 @@
-<!-- ============================================================
-  README de perfil — Lipe0921
-  Como usar: crie um repositório PÚBLICO chamado exatamente "Lipe0921"
-  (mesmo nome do seu usuário) e coloque este arquivo na raiz.
-  Procure por "EDITE" para trocar o que for seu.
-============================================================ -->
+
 
 <!-- ░░░░░░░░░░░░ HEADER ANIMADO ░░░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Fala%2C%20eu%20sou%20o%20Lipe&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Dados%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Boas%20ideias%20que%20viram%20c%C3%B3digo&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Fala%2C%20eu%20sou%20o%20Felipe&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Dados%20%E2%80%A2%20Sistemas%20%E2%80%A2%20Boas%20ideias%20que%20viram%20c%C3%B3digo&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
 <a href="https://github.com/Lipe0921">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+Bem-vindo+ao+meu+cantinho+do+GitHub;%F0%9F%97%84%EF%B8%8F+Modelagem+de+dados+%C3%A9+minha+praia;%F0%9F%9B%A0%EF%B8%8F+Transformando+problema+real+em+sistema;%E2%9A%A1+Aprendendo+algo+novo+todo+dia;%F0%9F%9A%80+Bora+construir+algo+juntos%3F" alt="Typing SVG" />
@@ -46,14 +41,14 @@
 <td width="60%" valign="top">
 
 ```js
-const lipe = {
+const felipe = {
   usuario: "Lipe0921",
-  cidade: "São Paulo, Brasil 🇧🇷",          // EDITE
-  foco: ["Modelagem de dados", "Banco de dados", "ERP", "Back-end"],
-  aprendendoAgora: ["SQL avançado", "Git/GitHub", "Arquitetura de sistemas"], // EDITE
-  superpoder: "Transformar bagunça em estrutura 🧩",
-  combustivel: "☕ + música alta",
-  pergunteMeSobre: ["DER", "normalização", "projetos integradores"],
+  cidade: "Planeta Terra 🌎",
+  foco: ["Banco de dados / SQL", "Modelagem de dados", "Front-end"],
+  aprendendoAgora: ["Python", "Algoritmos", "Diagramas"],
+  superpoder: "Aprender qualquer coisa rápido ⚡",
+  combustivel: "🍫 doce e foco",
+  pergunteMeSobre: ["Front-end", "DER e modelagem"],
   funFact: "Meu DER já foi refeito mais vezes que meu café esfriou ☕",
 };
 ```
@@ -73,7 +68,7 @@ const lipe = {
 
 1. 🧠 Gosto mais de entender **por que** o sistema é assim do que de só fazer ele funcionar.
 2. 🛠️ Acredito que um bom modelo de dados evita 80% das dores de cabeça futuras.
-3. 🎮 *(EDITE: coloque aqui um hobby seu, joguinho favorito, time, série...)*
+3. 🎮 Um dos meus hobbies é **assistir**, meu jogo favorito é **Black Ops 2** e minha série do momento é **Titans**.
 
 </details>
 
@@ -93,13 +88,12 @@ const lipe = {
 
 **Linguagens & Dados**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,postgres,sqlite&theme=dark" alt="langs"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js&theme=dark" alt="langs"/>
 
 **Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&theme=dark" alt="tools"/>
-
-<!-- EDITE: remova o que você não usa e adicione outros ícones: https://skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="tools"/>
+<img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="drawio"/>
 
 </div>
 
@@ -111,10 +105,11 @@ const lipe = {
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 </div>
 
@@ -126,38 +121,93 @@ const lipe = {
 
 <div align="center">
 
+<a href="https://github.com/Lipe0921/U-UNICID-ENG-FRONT-2260025-N3-2-2026-NT-REAPROVEITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lipe0921&repo=U-UNICID-ENG-FRONT-2260025-N3-2-2026-NT-REAPROVEITE&theme=transparent&title_color=a78bfa&text_color=e5e7eb&icon_color=7c3aed&border_color=302b63&show_owner=true" alt="Reaproveite"/>
+</a>
 <a href="https://github.com/Lipe0921/projeto-funilaria">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lipe0921&repo=projeto-funilaria&theme=transparent&title_color=a78bfa&text_color=e5e7eb&icon_color=7c3aed&border_color=302b63&show_owner=true" alt="projeto-funilaria"/>
 </a>
 
-<!-- EDITE: duplique o bloco acima com outros repositórios seus -->
+</div>
+
+### 🍏 Reaproveite: site de sustentabilidade
+
+Projeto em equipe de Engenharia de Software (UNICID) sobre **reaproveitamento de alimentos**, descarte correto e preservação do meio ambiente. Um portal web educativo com **10 páginas HTML5/CSS3**, foco em **acessibilidade** (HTML semântico, alto contraste, navegação por teclado, ARIA) e código validado nos padrões do W3C.
+
+<div align="center">
+
+[![Ver o site no ar](https://img.shields.io/badge/🌐_Ver_o_site_no_ar-7c3aed?style=for-the-badge)](https://u-unicid-eng-front-2260025-n3-2-2026-nt-reaprove-production.up.railway.app)
+[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/U-UNICID-ENG-FRONT-2260025-N3-2-2026-NT-REAPROVEITE)
 
 </div>
 
-### 🔧 Prime Funilaria — ERP
+<details>
+<summary><b>🗺️ Ver as páginas do site</b></summary>
+<br/>
 
-Projeto integrador de modelagem de dados: um ERP pensado do zero para uma funilaria, com **DER**, **dicionário de dados** e documentação completa.
+| Página | O que tem |
+|:--|:--|
+| `index` | Introdução ao aproveitamento integral dos alimentos |
+| `sobre` | História, missão, visão e valores |
+| `projetos` | Oficinas de culinária sustentável, compostagem e hortas |
+| `impacto` | Dados sobre economia e redução de lixo orgânico |
+| `acessibilidade` | Recursos de acessibilidade digital |
+| `galeria` / `midia` | Fotos, vídeos e mapa de feiras orgânicas |
+| `noticias` | Dicas e matérias sobre alimentação |
+| `contato` | Formulário validado e assistente virtual FAQ |
+| `orcamento_hospedagem` | Comparativo de hospedagem e domínio |
+
+</details>
+
+### 🔧 Prime Funilaria: ERP e modelagem de dados
+
+Projeto integrador em equipe (Grupo 04) de **Modelagem de Dados**: do problema real ao **DER** de um sistema ERP para uma funilaria automotiva, com requisitos, regras de negócio, fluxogramas e dicionário de dados. Hoje a empresa controla tudo no papel; o modelo integra clientes, veículos, ordens de serviço, orçamentos, estoque, fornecedores e pagamentos.
 
 ```mermaid
 erDiagram
     CLIENTE ||--o{ VEICULO : possui
-    VEICULO ||--o{ ORDEM_SERVICO : gera
-    ORDEM_SERVICO ||--|{ ITEM_SERVICO : contem
-    FUNCIONARIO ||--o{ ORDEM_SERVICO : executa
-    PECA ||--o{ ITEM_SERVICO : usada_em
+    CLIENTE ||--o{ ORDEM_SERVICO : solicita
+    VEICULO ||--o{ ORDEM_SERVICO : associado_a
+    FUNCIONARIO ||--o{ ORDEM_SERVICO : atende
+    ORDEM_SERVICO ||--o| ORCAMENTO : gera
+    ORCAMENTO ||--o{ ITEM_ORCAMENTO : contem
+    SERVICO |o--o{ ITEM_ORCAMENTO : utilizado_em
+    PECA |o--o{ ITEM_ORCAMENTO : compoe
+    ORCAMENTO ||--o| PAGAMENTO : gera_pagamento
+    FORNECEDOR ||--o{ FORNECEDOR_PECA : fornece
+    PECA ||--o{ FORNECEDOR_PECA : participa
 ```
 
-> 💡 *Diagrama ilustrativo, o GitHub renderiza Mermaid direto no README. Ajuste as entidades para bater com o seu DER real.*
+<div align="center">
+
+[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/projeto-funilaria)
+[![Dicionário de dados](https://img.shields.io/badge/📘_Dicionário_de_dados-7c3aed?style=for-the-badge)](https://github.com/Lipe0921/projeto-funilaria/blob/main/documentos/dicionario_de_dados.pdf)
+
+</div>
 
 <details>
-<summary><b>📂 Ver estrutura do projeto</b></summary>
+<summary><b>🖼️ Ver o DER original</b></summary>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Lipe0921/projeto-funilaria/blob/main/diagramas/DER.png">
+    <img src="https://github.com/Lipe0921/projeto-funilaria/raw/main/diagramas/DER.png" alt="DER da Prime Funilaria" width="90%"/>
+  </a>
+</div>
+
+</details>
+
+<details>
+<summary><b>📂 Ver estrutura do repositório</b></summary>
 
 ```text
 projeto-funilaria/
 ├── README.md
-├── DER/
-├── dicionario-de-dados/
-└── scripts-sql/
+├── diagramas/
+│   └── DER.png
+└── documentos/
+    ├── dicionario_de_dados.pdf
+    └── DIARIO DE BORDO_000205.pdf
 ```
 
 </details>
@@ -210,11 +260,11 @@ projeto-funilaria/
 
 | Objetivo | Progresso |
 |:--|:--|
-| 🗄️ Dominar modelagem de dados | ![](https://geps.dev/progress/70?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
-| 🧪 Praticar SQL todo dia | ![](https://geps.dev/progress/55?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
-| 🌱 Contribuir em open source | ![](https://geps.dev/progress/25?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
+| 🗄️ Dominar modelagem de dados | ![](https://geps.dev/progress/30?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
+| 🧪 Praticar SQL todo dia | ![](https://geps.dev/progress/30?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
+| 🌱 Contribuir em open source | ![](https://geps.dev/progress/30?dangerColor=7c3aed&warningColor=a78bfa&successColor=34d399) |
 
-<sub>EDITE os números conforme você evolui, é só mudar o valor depois de /progress/</sub>
+<sub>Atualize os números conforme evoluir: é só mudar o valor depois de /progress/</sub>
 
 </div>
 
@@ -235,10 +285,8 @@ projeto-funilaria/
 <div align="center">
 
 <a href="https://github.com/Lipe0921"><img src="https://img.shields.io/badge/GitHub-Lipe0921-0f0c29?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-Me%20chama-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-
-<!-- EDITE: LinkedIn e e-mail acima -->
+<a href="https://www.linkedin.com/in/lipe1209/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:felipeunicid1209@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20chama-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 <br/><br/>
 
