@@ -151,7 +151,7 @@ def jogar_ppt(est, user, arg):
 
 # ---------- README ----------
 def link_issue(titulo):
-    corpo = ("Basta clicar em Submit new issue. Não altere o título! "
+    corpo = ("Basta clicar no botão verde Create. Não altere o título! "
              "O bot joga e o placar atualiza sozinho.")
     return (f"https://github.com/{REPO}/issues/new"
             f"?title={quote(titulo, safe='')}&body={quote(corpo, safe='')}")
