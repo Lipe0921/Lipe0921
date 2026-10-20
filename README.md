@@ -281,9 +281,14 @@ projeto-funilaria/
 
 [🪨 Pedra](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Cpedra&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) · [📄 Papel](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Cpapel&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) · [✂️ Tesoura](https://github.com/Lipe0921/Lipe0921/issues/new?title=ppt%7Ctesoura&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.)
 
-👥 Visitantes **0** · 🤖 Bot **0** · 🤝 Empates **0**
+👥 Visitantes **0** · 🤖 Bot **0** · 🤝 Empates **1**
 
-<sub>Ninguém jogou ainda. Seja a primeira pessoa! 🚀</sub>
+<details>
+<summary><sub>Últimos resultados</sub></summary>
+
+- 🤝 [@Lipe0921](https://github.com/Lipe0921): 🪨 pedra × 🪨 pedra, empate
+
+</details>
 
 </div>
 <!-- JOGOS:END -->

@@ -24,8 +24,10 @@
     "placar": {
       "visitantes": 0,
       "bot": 0,
-      "empates": 0
+      "empates": 1
     },
-    "historico": []
+    "historico": [
+      "🤝 [@Lipe0921](https://github.com/Lipe0921): 🪨 pedra × 🪨 pedra, empate"
+    ]
   }
 }
