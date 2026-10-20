@@ -1,0 +1,29 @@
+{
+  "velha": {
+    "tabuleiro": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "placar": {
+      "visitantes": 0,
+      "bot": 0,
+      "empates": 0
+    },
+    "historico": []
+  },
+  "ppt": {
+    "placar": {
+      "visitantes": 0,
+      "bot": 0,
+      "empates": 0
+    },
+    "historico": []
+  }
+}
