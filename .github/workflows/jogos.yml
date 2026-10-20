@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     env:
-      COMMENT_FILE: ${{ runner.temp }}/comentario.md
+      COMMENT_FILE: /tmp/comentario.md
     steps:
       - uses: actions/checkout@v4
 
