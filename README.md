@@ -246,8 +246,8 @@ projeto-funilaria/
 | | | |
 |:-:|:-:|:-:|
 | ❌ | ⭕ | ❌ |
-| [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C4&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | ⭕ | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C6&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) |
-| [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C7&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) | ❌ | ⭕ |
+| ❌ | ⭕ | [⬜](https://github.com/Lipe0921/Lipe0921/issues/new?title=velha%7C6&body=Basta%20clicar%20no%20bot%C3%A3o%20verde%20Create.%20N%C3%A3o%20altere%20o%20t%C3%ADtulo%21%20O%20bot%20joga%20e%20o%20placar%20atualiza%20sozinho.) |
+| ⭕ | ❌ | ⭕ |
 
 👥 Visitantes **0** · 🤖 Bot **0** · 🤝 Empates **1**
 
