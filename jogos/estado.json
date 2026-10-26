@@ -23,11 +23,12 @@
   },
   "ppt": {
     "placar": {
-      "visitantes": 0,
+      "visitantes": 1,
       "bot": 0,
       "empates": 1
     },
     "historico": [
+      "🎉 [@Lipe0921](https://github.com/Lipe0921): 📄 papel × 🪨 pedra, venceu",
       "🤝 [@Lipe0921](https://github.com/Lipe0921): 🪨 pedra × 🪨 pedra, empate"
     ]
   }
