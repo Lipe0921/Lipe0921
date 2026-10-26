@@ -1,22 +1,23 @@
 {
   "velha": {
     "tabuleiro": [
-      "X",
-      "O",
-      "X",
-      "X",
-      "O",
       " ",
-      "O",
-      "X",
-      "O"
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
     ],
     "placar": {
       "visitantes": 0,
       "bot": 0,
-      "empates": 1
+      "empates": 2
     },
     "historico": [
+      "🤝 [@Lipe0921](https://github.com/Lipe0921) empatou com o bot",
       "🤝 [@Lipe0921](https://github.com/Lipe0921) empatou com o bot"
     ]
   },
