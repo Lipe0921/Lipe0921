@@ -170,7 +170,7 @@ Projeto integrador em equipe (Grupo 04) de **Modelagem de Dados**: do problema r
 
 <div align="center">
 
-[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/projeto-funilaria)
+[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](reaproveite.up.railway.app)
 [![Dicionário de dados](https://img.shields.io/badge/📘_Dicionário_de_dados-7c3aed?style=for-the-badge)](https://github.com/Lipe0921/projeto-funilaria/blob/main/documentos/dicionario_de_dados.pdf)
 
 </div>
