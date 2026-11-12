@@ -137,11 +137,11 @@ const felipe = {
 
 ### 🍏 Reaproveite: site de sustentabilidade
 
-Projeto em equipe de Engenharia de Software (UNICID) sobre **reaproveitamento de alimentos**, descarte correto e preservação do meio ambiente. Um portal web educativo com **10 páginas HTML5/CSS3**, foco em **acessibilidade** (HTML semântico, alto contraste, navegação por teclado, ARIA) e código validado nos padrões do W3C.
+Projeto em equipe de Engenharia de Software (UNICID) sobre **reaproveitamento de alimentos**, descarte correto e preservação do meio ambiente. Um portal web educativo com **10 páginas HTML5/CSS3**, foco em **acessibilidade** (HTML semântico, alto contraste, navegação por teclado, ARIA) e código validado nos padrões do W3C. Em **JavaScript** fiz a validação de formulário com mensagens de erro, rascunho salvo no navegador e menu responsivo.
 
 <div align="center">
 
-[![Ver o site no ar](https://img.shields.io/badge/🌐_Ver_o_site_no_ar-7c3aed?style=for-the-badge)](reaproveite.up.railway.app)
+[![Ver o site no ar](https://img.shields.io/badge/🌐_Ver_o_site_no_ar-7c3aed?style=for-the-badge)](https://reaproveite.up.railway.app)
 [![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/U-UNICID-ENG-FRONT-2260025-N3-2-2026-NT-REAPROVEITE)
 
 </div>
@@ -170,7 +170,7 @@ Projeto integrador em equipe (Grupo 04) de **Modelagem de Dados**: do problema r
 
 <div align="center">
 
-[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](reaproveite.up.railway.app)
+[![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/projeto-funilaria)
 [![Dicionário de dados](https://img.shields.io/badge/📘_Dicionário_de_dados-7c3aed?style=for-the-badge)](https://github.com/Lipe0921/projeto-funilaria/blob/main/documentos/dicionario_de_dados.pdf)
 
 </div>
