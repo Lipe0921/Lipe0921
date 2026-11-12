@@ -141,7 +141,7 @@ Projeto em equipe de Engenharia de Software (UNICID) sobre **reaproveitamento de
 
 <div align="center">
 
-[![Ver o site no ar](https://img.shields.io/badge/🌐_Ver_o_site_no_ar-7c3aed?style=for-the-badge)](https://u-unicid-eng-front-2260025-n3-2-2026-nt-reaprove-production.up.railway.app)
+[![Ver o site no ar](https://img.shields.io/badge/🌐_Ver_o_site_no_ar-7c3aed?style=for-the-badge)](reaproveite.up.railway.app)
 [![Repositório](https://img.shields.io/badge/📂_Repositório-302b63?style=for-the-badge&logo=github)](https://github.com/Lipe0921/U-UNICID-ENG-FRONT-2260025-N3-2-2026-NT-REAPROVEITE)
 
 </div>
